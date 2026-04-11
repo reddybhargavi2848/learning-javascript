@@ -33,4 +33,12 @@
 // }
 
 
-let arr =[1, "hii", true, 'bhagi'];
+let userData1 =[1, "hii", true, 'bhagi'];
+
+console.log(userData1);
+
+userData1.push(20);
+userData1.pop();
+
+userData1.shift();
+userData1.unshift(9);
