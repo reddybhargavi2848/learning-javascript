@@ -25,9 +25,12 @@
 
 // Arrays
 
-let userData = [10, "hello", false, 3.14, null, 'bye']
+// let userData = [10, "hello", false, 3.14, null, 'bye']
 
-for (let index = 0; index < userData.length; index++) {
-    console.log(typeof userData[index]);
+// for (let index = 0; index < userData.length; index++) {
+//     console.log(typeof userData[index]);
     
-}
+// }
+
+
+let arr =[1, "hii", true, 'bhagi'];
