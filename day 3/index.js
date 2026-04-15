@@ -97,3 +97,9 @@ const doMath = (num1, num2, op) => {
 }
 
 doMath(2, 3, "*")
+
+let name = "riya";
+ let age = 21;
+
+ console.log("hii this is "+name+"i am "+age);
+ console.log(`hii this is ${name} my age is ${age}`);
