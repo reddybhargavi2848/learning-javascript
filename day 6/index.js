@@ -20,7 +20,7 @@ const sub = () => {
 }
 
 const mult = () => {
-    event.preventDefault()
+    event.preventDefault() // it is used to stop the continuous reload process
 
     let val1 = document.getElementById("value1").value
     let val2 = document.getElementById("value2")
